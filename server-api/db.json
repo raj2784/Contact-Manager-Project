@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "id": "6bd17fe6-afaf-49cc-b2b4-408fbdd39afa",
+      "name": " Raj Bhatia",
+      "email": "raj2784@gmail.com"
+    },
+    {
+      "id": "1d87a6fd-81e2-4f3d-a381-51e53543f399",
+      "name": "M Techno",
+      "email": "mtechno@gmail.com"
+    },
+    {
+      "id": "38c4fda2-bbd6-4144-93b9-d76e7b341910",
+      "name": "Jhon Ben",
+      "email": "jhon@gmail.com"
+    },
+    {
+      "id": "47a17fe4-1436-4917-9539-3c2f1a0057cc",
+      "name": "Sam",
+      "email": "sam@gmail.com"
+    },
+    {
+      "id": "60beb8ba-2702-4a47-bf4b-3ad580488a36",
+      "name": "NIkki",
+      "email": "nikki2784@gmail.com"
+    }
+  ]
+}
